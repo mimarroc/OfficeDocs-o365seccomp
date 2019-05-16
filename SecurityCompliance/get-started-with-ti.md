@@ -68,7 +68,7 @@ As part of the Office 365 Advanced Threat Protection Plan 2 offering, security a
   
 ## How do we get these Threat investigation and response capabilities?
 
-Office 365 Threat Invesigation and Response capabilities are included in Office 365 Advanced Threat Protection Plan 2 and Enterprise E5. 
+Office 365 Threat Investigation and Response capabilities are included in Office 365 Advanced Threat Protection Plan 2 and Enterprise E5. 
 
 > [!TIP]
 > If your organization has an Office 365 subscription that does not include these threat investigation and response capabilities, you can purchase these as an add-on along with Office 365 Advanced Threat Protection. For more information about plan options, see [Office 365 Platform Service Description: Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) and [Buy or edit an add-on for Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).
